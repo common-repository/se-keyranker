@@ -1,0 +1,188 @@
+.sekr_ftr {
+	display: block;
+	font-size: 11px;
+	font-family: tahoma;
+	clear: both;
+	padding-top: 20px;
+}
+
+.sekr_funcmenu {
+	padding-bottom: 6px;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.sekr_datamenu {
+	padding-top: 6px;
+}
+
+.sekr_km {
+	padding-top: 10px;
+	display: block;
+}
+
+.sekr_km_left {
+	float: left;
+	width: 400px;
+	margin-top: 0px;
+	border: 1px solid #CCCCCC;
+	padding: 0px 15px 5px 15px;
+}
+
+.sekr_km_left h3 {
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+
+.sekr_km_right {
+	font-size: 11px;
+	background-color: #CCCCCC;
+	padding: 4px 10px 8px 10px;
+	float: left;
+	width: 300px;
+	margin-left: 8px;
+}
+
+.sekr_kwitem {
+	padding-bottom: 5px;
+}
+
+.sekr_settings_gs i {
+	font-size: 10px;
+}
+
+.sekr_settings_gs input {
+	margin-left: 10px;
+}
+
+.sekr_settings_gs {
+	width: 350px;
+}
+
+.sekr_settings_sel table {
+	width: 250px;
+}
+
+.sekr_settings_sel td {
+	width: 150px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.sekr_sel_title1, .sekr_sel_title2 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.sekr_sel_title2 {
+	border-left: 1px solid #CCCCCC;
+}
+
+.sekr_sel_item {
+	margin-top: 2px;
+	border-top: 1px solid #CCCCCC;
+	text-align: left;
+	font-weight: normal;
+	background-color: #F1F1F1;
+	padding: 4px 4px 4px 4px;
+}
+
+.sekr_sel_item i {
+	font-size: 9px;
+}
+
+.sekrlocalt table {
+	width: 700px;
+}
+
+.sekrlocalt td {
+	border: 1px solid #CCCCCC;
+	width: 100px;
+}
+
+.kr_wrap {
+	float: left;
+	width: 220px;
+	border: 1px solid #CCCCCC;
+	margin: 6px;
+	padding: 3px 3px 5px 3px;
+	font-size: 11px;
+}
+
+.kr_title {
+	padding-bottom: 4px;
+	text-align: center;
+}
+
+.kr_title span {
+	text-transform: lowercase;
+	font-weight: bold;
+}
+
+.kr_se td {
+	font-size: 11px;
+	padding: 2px;
+	border-bottom: 1px dashed #CCCCCC;
+}
+
+#sekr-ha {
+	padding: 5px;
+	width: 700px;
+}
+
+.ha_faq div, .ha_abo div {
+	margin-left: 10px;
+}
+
+.ha_faq div {
+	border-bottom: 1px dashed #CCCCCC;
+	padding: 0px 2px;
+}
+
+.ha_faq  span, .ha_abo span {
+	font-weight: bold;
+}
+
+.ha_uni  p {
+	color: red;
+	font-weight: bold;
+}
+
+.ha_uni {
+	margin-bottom: 30px;
+}
+
+.sekr-dlayout {
+	font-size: 11px;
+	display: block;
+}
+
+.sekr-ditem {
+	width: 250px;
+	border: 1px solid #CCCCCC;
+	float: left;
+	margin: 0px 10px 10px 0px;
+	padding: 4px;
+}
+
+.sekrldit {
+	font-size: 11px;
+	font-weight: bold;
+	color: red;
+	clear: both;
+	padding-top: 20px;
+}
+
+.sekrldi {
+	float: left;
+	width: 120px;
+	border-bottom: 1px dashed #CCCCCC;
+	margin: 2px 10px 2px 10px;
+}
+
+#rl {
+	color: #FF0000;
+}
+
+#rg {
+	color: #2BB51D;
+}
